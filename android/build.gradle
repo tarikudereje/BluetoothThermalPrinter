@@ -1,4 +1,4 @@
-group 'com.peoplewareinnovations.bluetooth_thermal_printer'
+group 'com.peoplewareinnovations.blue_thermal_printer'
 version '1.0-SNAPSHOT'
 
 buildscript {
